@@ -1,0 +1,58 @@
+#nametag{
+    white-space-collapse: collapse;
+    background-color: green;
+    color:aliceblue;
+    text-align: center;
+
+}
+
+#about{
+    background-image: url();
+}
+
+.ourteam{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    color: black;
+    
+    border: 2px solid black;
+    padding: 10px;
+    margin: 5px;
+    width:auto;
+    height: auto;
+}
+
+.softwareEng{
+    background-color: lightgreen;
+    height: 300px;
+    width: 100px;
+    justify-content: center;
+    color: black;
+
+}
+
+.network{
+     background-color: lightgreen;
+    height: 300px;
+    width: 100px;
+    justify-content: center;
+    color: black;
+}
+
+.ourservices{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    color: black;
+    
+    border: 2px solid black;
+    padding: 10px;
+    margin: 5px;
+    width:auto;
+    height: auto;
+
+}
